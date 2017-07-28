@@ -31,6 +31,14 @@ var orm = {
         if (err) throw err;
         cb(results)
         })
+    },
+    deleteOne: function(table, condition, cb) {
+        var query = "DELETE FROM "+ table + " WHERE "+ condition;
+        console.log(query)
+        connection.query(query, condition, function(err, results) {
+            if (err) throw err;
+            cb(results)
+        })
     }
 
 };
