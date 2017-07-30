@@ -8,7 +8,7 @@ This app is made with Node.js, Express.js, Handlebars and MySQL. Type in a burge
 
 [Please check out the launched app on Heroku here!](https://murmuring-meadow-20459.herokuapp.com/) 
 
-**Functionality
+**Functionality**
 
 Using a custome ORM, the app has 3 basic CRUD functions.
 
@@ -20,6 +20,6 @@ CREATE: Create a burger and store it in the database with and incrementing ID.
 
 **Screenshot**
 
-![alt text](/assets/img/screenshot.png "Screenshot")
+![alt text](/burgers/public/assets/img/screenshot.png "Screenshot")
 
 
