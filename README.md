@@ -20,6 +20,6 @@ CREATE: Create a burger and store it in the database with and incrementing ID.
 
 **Screenshot**
 
-![alt text](/burgers/public/assets/img/screenshot.png "Screenshot")
+![alt text](https://raw.githubusercontent.com/psingh24/burgers/master/public/assets/img/screenshot.png "Screenshot")
 
 
