@@ -3,10 +3,15 @@
 
 **Overview**
 
-
 This app is made with Node.js, Express.js, Handlebars and MySQL. Type in a burger name to save it to the database and devoured by pressing on the Gene Belcher button. Once created your burger will show up on the right and once eaten it goes under the devoured section. Press the Bob Belcher button to delete the burger.
 
-[Please check out the launched app on Heroku here!](https://murmuring-meadow-20459.herokuapp.com/) 
+[Please check out the launched app on Heroku here!](https://murmuring-meadow-20459.herokuapp.com/)
+
+**Technologies used:**
+
+* Node.js
+* Express.js & Handlebars
+* MySQL
 
 **Functionality**
 
